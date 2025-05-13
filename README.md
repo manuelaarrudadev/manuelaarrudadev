@@ -25,7 +25,6 @@
 | Projeto | Descrição |
 |--------|------------|
 | [learning-java](https://github.com/manuelaarrudadev/learning-java) | Estudos com foco em fundamentos da linguagem Java |
-| Repositórios privados com projetos em **Mendix**, disponíveis sob demanda |
 
 ---
 
