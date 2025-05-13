@@ -31,8 +31,8 @@
 
 ### 🌐 Conecte-se comigo
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/manuela-arruda-a794581a1)
-📧 manuela@email.com
+[![LinkedIn](www.linkedin.com/in/manuela-arruda-a794581a1)
+📧 manuelaarruda.adm@outlook.com
 
 ---
 
