@@ -7,6 +7,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/manuela-arruda-a794581a1/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
   <a href="mailto:manuelaarruda.adm@outlook.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
@@ -16,9 +17,10 @@
 
 ### 👩‍💻 Sobre mim
 
-- 💻 Atualmente trabalhando com **Java**, **Spring Boot** e **Mendix**
+- 💼 Atualmente atuando como desenvolvedora **Mendix**
+- ☕ Desenvolvendo projetos em **Java** e **Spring Boot**
 - ✅ Certificada **Mendix Intermediate Developer**
-- 🌱 Estudando **APIs RESTful**, testes automatizados, boas práticas e **Clean Code**
+- 🌱 Aprofundando em **APIs RESTful**, testes automatizados, boas práticas e **Clean Code**
 - 🌍 Acredito no poder da tecnologia para resolver problemas reais
 - 📍 Recife – PE, Brasil
 
